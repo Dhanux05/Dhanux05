@@ -343,7 +343,7 @@ life_philosophy: "Solve real problems with code and data."
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/dhanush-kumar-r" target="_blank">
+<a href="https://www.linkedin.com/in/dhanush-kumar-r0000/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b26" alt="LinkedIn"/>
 </a>
 &nbsp;
