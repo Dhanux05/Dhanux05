@@ -21,12 +21,13 @@
   
   <!-- Terminal Title -->
   <text x="325" y="23" text-anchor="middle" font-family="'SF Mono', 'Consolas', monospace" font-size="12" fill="#6b7280">
-    redoyanul@dev — zsh
+    dhanux05@dev — zsh
   </text>
   
   <!-- Terminal Content -->
   <g font-family="'SF Mono', 'JetBrains Mono', 'Consolas', monospace" font-size="13">
-    <!-- Command 1 -->
+    
+    <!-- Command -->
     <text x="20" y="65" fill="#27ca40">❯</text>
     <text x="40" y="65" fill="#e5e7eb">cat profile.json</text>
     
@@ -35,27 +36,27 @@
     
     <text x="35" y="120" fill="#a78bfa">"name"</text>
     <text x="90" y="120" fill="#9ca3af">:</text>
-    <text x="100" y="120" fill="#34d399">"Redoyanul Haque"</text>
-    <text x="245" y="120" fill="#9ca3af">,</text>
+    <text x="100" y="120" fill="#34d399">"Dhanush Kumar R"</text>
+    <text x="255" y="120" fill="#9ca3af">,</text>
     
     <text x="35" y="145" fill="#a78bfa">"role"</text>
     <text x="85" y="145" fill="#9ca3af">:</text>
-    <text x="95" y="145" fill="#34d399">"AI Developer &amp; Python Engineer"</text>
-    <text x="350" y="145" fill="#9ca3af">,</text>
+    <text x="95" y="145" fill="#34d399">"MERN Stack Developer &amp; AI Enthusiast"</text>
+    <text x="410" y="145" fill="#9ca3af">,</text>
     
     <text x="35" y="170" fill="#a78bfa">"location"</text>
     <text x="115" y="170" fill="#9ca3af">:</text>
-    <text x="125" y="170" fill="#34d399">"Bangladesh 🇧🇩"</text>
-    <text x="265" y="170" fill="#9ca3af">,</text>
+    <text x="125" y="170" fill="#34d399">"India 🇮🇳"</text>
+    <text x="225" y="170" fill="#9ca3af">,</text>
     
     <text x="35" y="195" fill="#a78bfa">"focus"</text>
     <text x="90" y="195" fill="#9ca3af">:</text>
-    <text x="100" y="195" fill="#34d399">"Building Intelligent Systems"</text>
-    <text x="340" y="195" fill="#9ca3af">,</text>
+    <text x="100" y="195" fill="#34d399">"Building Scalable Web &amp; AI Solutions"</text>
+    <text x="430" y="195" fill="#9ca3af">,</text>
     
     <text x="35" y="220" fill="#a78bfa">"goal"</text>
     <text x="80" y="220" fill="#9ca3af">:</text>
-    <text x="90" y="220" fill="#34d399">"Creating JARVIS-like AI"</text>
+    <text x="90" y="220" fill="#34d399">"Creating Impactful Real-World Tech"</text>
     
     <text x="20" y="245" fill="#fbbf24">}</text>
     
@@ -64,5 +65,6 @@
     <rect x="40" y="263" width="10" height="16" fill="#667eea">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
+    
   </g>
 </svg>
