@@ -62,7 +62,7 @@
     
     <!-- New Command Line -->
     <text x="20" y="275" fill="#27ca40">❯</text>
-    <rect x="40" y="263" width="10" height="16" fill="#667eea">
+    <rect x="40" y="263" width="10" height="16" fill="#00A3FF">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
     

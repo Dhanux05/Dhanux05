@@ -28,19 +28,19 @@
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
   <a href="https://github.com/Dhanux05">
-    <img src="https://komarev.com/ghpvc/?username=Dhanux05&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Dhanux05&label=Profile%20Views&color=7B61FF&style=flat-square&base=1700" alt="Profile Views"/>
   </a>
   &nbsp;
   <a href="https://github.com/Dhanux05?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDhanux05&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FDhanux05&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=00C9A7&labelColor=1a1b26" alt="Repositories"/>
   </a>
   &nbsp;
   <a href="https://github.com/Dhanux05?tab=followers">
-    <img src="https://img.shields.io/github/followers/Dhanux05?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/Dhanux05?label=Followers&style=flat-square&color=00A3FF&labelColor=1a1b26" alt="Followers"/>
   </a>
   &nbsp;
   <a href="https://github.com/Dhanux05">
-    <img src="https://img.shields.io/github/stars/Dhanux05?label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/Dhanux05?label=Stars&style=flat-square&color=7B61FF&labelColor=1a1b26" alt="Stars"/>
   </a>
   
 </div>
@@ -160,7 +160,7 @@ life_philosophy: "Solve real problems with code and data."
   
   <!-- GitHub Stats + Custom Streak in ONE ROW -->
   <a href="https://github.com/Dhanux05">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhanux05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhanux05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00A3FF&icon_color=00C9A7&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
   &nbsp;
   <a href="https://github.com/red1-for-hek">
@@ -178,7 +178,7 @@ life_philosophy: "Solve real problems with code and data."
   
   <!-- Activity Graph -->
   <a href="https://github.com/Dhanux05">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanux05&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanux05&bg_color=0d1117&color=00A3FF&line=00C9A7&point=c9d1d9&area=true&area_color=00A3FF&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
   </a>
   
   <br/><br/>
@@ -310,15 +310,15 @@ life_philosophy: "Solve real problems with code and data."
 <br/>
 
 <a href="https://github.com/Dhanux05">
-  <img src="https://img.shields.io/badge/🤖_AI_Agents-Autonomous_Systems-667eea?style=for-the-badge&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/🤖_AI_Agents-Autonomous_Systems-00A3FF?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 &nbsp;
 <a href="https://github.com/Dhanux05">
-  <img src="https://img.shields.io/badge/🧠_LLMs-Transformer_Architectures-764ba2?style=for-the-badge&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/🧠_LLMs-Transformer_Architectures-7B61FF?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 &nbsp;
 <a href="https://github.com/Dhanux05">
-  <img src="https://img.shields.io/badge/💬_Chatbots-Conversational_AI-f093fb?style=for-the-badge&labelColor=1a1b26"/>
+  <img src="https://img.shields.io/badge/💬_Chatbots-Conversational_AI-00C9A7?style=for-the-badge&labelColor=1a1b26"/>
 </a>
 
 </div>
