@@ -8,7 +8,7 @@
 ║   ██████╔╝██║  ██║██║ ╚████║██║  ██║╚██████╔╝███████║██║  ██╗╚██████╔╝     ║
 ║   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝      ║
 ║                                                                              ║
-║      🚀 MERN STACK DEVELOPER • AI ENTHUSIAST • PROBLEM SOLVER 🚀           ║
+║        🤖 AI ENGINEER • AGENTIC AI • REACT.JS DEVELOPER 🚀                 ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
@@ -19,7 +19,7 @@
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img src="./assets/header-animation.svg" alt="Dhanush Kumar R - Engineering Student" width="100%"/>
+  <img src="./assets/header-animation.svg" alt="Dhanush Kumar R - AI Engineer | Agentic AI | React.js" width="100%"/>
   
   <br/>
   
@@ -81,9 +81,9 @@ located_in: Bangalore, India 🇮🇳
 current_status: BE Information Science (2022-2026)
 
 areas_of_expertise:
-  - MERN Stack Development
+  - AI Engineering & Agentic AI Systems
+  - React.js & MERN Stack Development
   - Data Analytics & Power BI
-  - Python Development
   - AI-based Projects (Computer Vision, Voice Interfaces)
 
 currently_building:

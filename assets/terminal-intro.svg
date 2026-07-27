@@ -41,22 +41,22 @@
     
     <text x="35" y="145" fill="#a78bfa">"role"</text>
     <text x="85" y="145" fill="#9ca3af">:</text>
-    <text x="95" y="145" fill="#34d399">"MERN Stack Developer &amp; AI Enthusiast"</text>
+    <text x="95" y="145" fill="#34d399">"AI Engineer | Agentic AI | React.js"</text>
     <text x="410" y="145" fill="#9ca3af">,</text>
-    
+
     <text x="35" y="170" fill="#a78bfa">"location"</text>
     <text x="115" y="170" fill="#9ca3af">:</text>
     <text x="125" y="170" fill="#34d399">"India 🇮🇳"</text>
     <text x="225" y="170" fill="#9ca3af">,</text>
-    
+
     <text x="35" y="195" fill="#a78bfa">"focus"</text>
     <text x="90" y="195" fill="#9ca3af">:</text>
-    <text x="100" y="195" fill="#34d399">"Building Scalable Web &amp; AI Solutions"</text>
-    <text x="430" y="195" fill="#9ca3af">,</text>
-    
+    <text x="100" y="195" fill="#34d399">"Building Autonomous AI Agents"</text>
+    <text x="350" y="195" fill="#9ca3af">,</text>
+
     <text x="35" y="220" fill="#a78bfa">"goal"</text>
     <text x="80" y="220" fill="#9ca3af">:</text>
-    <text x="90" y="220" fill="#34d399">"Creating Impactful Real-World Tech"</text>
+    <text x="90" y="220" fill="#34d399">"Engineering Intelligent Real-World Systems"</text>
     
     <text x="20" y="245" fill="#fbbf24">}</text>
     
