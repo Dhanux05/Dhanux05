@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 630" width="700" height="630" role="img" aria-label="Dhanush Kumar R. Agents, RAG and products that ship.">
+  <style>
+    .c{font-family:Impact,Haettenschweiler,"Arial Narrow Bold","Arial Narrow",sans-serif}
+    .s{font-family:Georgia,"Times New Roman",serif}
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px;letter-spacing:2px;fill:#B8B5AC}
+    .b{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:18px;fill:#F3EFE4}
+  </style>
+  <rect width="700" height="630" fill="#0B0B0B"/>
+  <text class="m" x="40" y="44"><tspan fill="#FFD900">00</tspan>  /  INDEX</text>
+  <text class="m" x="660" y="44" text-anchor="end">PORTFOLIO 2026</text>
+  <path d="M40 64H660" stroke="#303030"/>
+  <text class="c" x="36" y="212" font-size="160" fill="#F3EFE4" textLength="470" lengthAdjust="spacingAndGlyphs">DHANUSH</text>
+  <text class="c" x="36" y="350" font-size="160" fill="#F3EFE4" textLength="440" lengthAdjust="spacingAndGlyphs">KUMAR R</text>
+  <path d="M520 150h24M532 138v24" stroke="#BDA500"/>
+  <text class="m" x="660" y="212" text-anchor="end" font-size="12">(A)</text>
+  <text class="s" x="40" y="436" font-size="38" fill="#F3EFE4">Agents, RAG &amp; products</text>
+  <text class="s" x="40" y="486" font-size="38" fill="#F3EFE4">that <tspan font-style="italic" font-size="54" fill="#FFD900">ship.</tspan></text>
+  <path d="M40 550H660" stroke="#303030"/>
+  <text class="m" x="40" y="582" font-size="12">ROLE</text>
+  <text class="m" x="270" y="582" font-size="12">BASE</text>
+  <text class="m" x="440" y="582" font-size="12">FOCUS</text>
+  <text class="b" x="40" y="611">AI Engineer (Intern)</text>
+  <text class="b" x="270" y="611">Bangalore, IN</text>
+  <text class="b" x="440" y="611">Agents · RAG · APIs</text>
+</svg>

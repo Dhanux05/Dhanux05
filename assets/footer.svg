@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Dhanush Kumar R. Build it. Ship it. Explain it.">
+  <style>
+    .s{font-family:Georgia,"Times New Roman",serif;font-style:italic;fill:#FFD900}
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;letter-spacing:2px;fill:#B8B5AC}
+  </style>
+  <rect width="1200" height="150" fill="#0B0B0B"/>
+  <path d="M40 30H1160" stroke="#303030"/>
+  <text class="m" x="40" y="92">© 2026  DHANUSH KUMAR R</text>
+  <text class="s" x="600" y="98" font-size="32" text-anchor="middle">Build it. Ship it. Explain it.</text>
+  <text class="m" x="1160" y="92" text-anchor="end">BANGALORE · 12.97°N 77.59°E</text>
+</svg>

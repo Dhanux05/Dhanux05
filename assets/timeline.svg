@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 730" width="1200" height="730" role="img" aria-label="Timeline. June 2026 to present: AI Engineer Intern at ReadyForRole. February to May 2026: Web Developer Intern at Sn Info Systems. 2024 to 2025: MERN stack training, Next Gen Employability Program. 2022 to 2026: BE Information Science, APS College of Engineering, Bangalore.">
+  <style>
+    .c{font-family:Impact,Haettenschweiler,"Arial Narrow Bold","Arial Narrow",sans-serif}
+    .s{font-family:Georgia,"Times New Roman",serif;font-style:italic;fill:#FFD900}
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px;letter-spacing:2px;fill:#B8B5AC}
+    .b{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:18px;fill:#B8B5AC}
+  </style>
+  <rect width="1200" height="730" fill="#0B0B0B"/>
+  <text class="m" x="40" y="44"><tspan fill="#FFD900">04</tspan>  /  TIMELINE</text>
+  <text class="m" x="1160" y="44" text-anchor="end">2022 — NOW</text>
+  <path d="M40 64H1160" stroke="#303030"/>
+  <text class="c" x="36" y="176" font-size="124" fill="#F3EFE4" textLength="500" lengthAdjust="spacingAndGlyphs">WHERE I'VE</text>
+  <text class="s" x="566" y="176" font-size="112">been.</text>
+
+  <path d="M40 206H1160" stroke="#303030"/>
+  <text class="m" x="40" y="258" style="fill:#FFD900">JUN 2026 — NOW</text>
+  <text class="m" x="40" y="286" font-size="12">BANGALORE</text>
+  <text class="c" x="330" y="266" font-size="46" fill="#F3EFE4" textLength="400" lengthAdjust="spacingAndGlyphs">AI ENGINEER (INTERN)</text>
+  <text class="s" x="330" y="304" font-size="28">ReadyForRole Pvt Ltd</text>
+  <text class="b" x="830" y="256">Agentic AI, RAG and assessment</text>
+  <text class="b" x="830" y="282">backends; developer education.</text>
+
+  <path d="M40 326H1160" stroke="#303030"/>
+  <text class="m" x="40" y="378" style="fill:#FFD900">FEB — MAY 2026</text>
+  <text class="c" x="330" y="386" font-size="46" fill="#F3EFE4" textLength="400" lengthAdjust="spacingAndGlyphs">WEB DEVELOPER INTERN</text>
+  <text class="s" x="330" y="424" font-size="28">Sn Info Systems</text>
+  <text class="b" x="830" y="376">Web development internship.</text>
+
+  <path d="M40 446H1160" stroke="#303030"/>
+  <text class="m" x="40" y="498" style="fill:#FFD900">2024 — 2025</text>
+  <text class="c" x="330" y="506" font-size="46" fill="#F3EFE4" textLength="380" lengthAdjust="spacingAndGlyphs">MERN STACK TRAINING</text>
+  <text class="s" x="330" y="544" font-size="28">Next Gen Employability Program</text>
+  <text class="b" x="830" y="496">MongoDB, Express, React, Node.js</text>
+
+  <path d="M40 566H1160" stroke="#303030"/>
+  <text class="m" x="40" y="618" style="fill:#FFD900">2022 — 2026</text>
+  <text class="c" x="330" y="626" font-size="46" fill="#F3EFE4" textLength="430" lengthAdjust="spacingAndGlyphs">BE, INFORMATION SCIENCE</text>
+  <text class="s" x="330" y="664" font-size="28">APS College of Engineering</text>
+  <text class="b" x="830" y="616">Bangalore, Karnataka.</text>
+
+  <path d="M40 690H1160" stroke="#303030"/>
+</svg>

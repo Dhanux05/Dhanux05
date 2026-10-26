@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-label="About. Hello, I'm Dhanush. AI engineer intern at ReadyForRole building agentic and RAG systems, from retrieval pipelines to evaluation loops. BE Information Science, Bangalore.">
+  <style>
+    .c{font-family:Impact,Haettenschweiler,"Arial Narrow Bold","Arial Narrow",sans-serif}
+    .s{font-family:Georgia,"Times New Roman",serif;font-style:italic;fill:#FFD900}
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px;letter-spacing:2px;fill:#B8B5AC}
+    .b{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;fill:#F3EFE4}
+  </style>
+  <rect width="1200" height="600" fill="#0B0B0B"/>
+  <text class="m" x="40" y="44"><tspan fill="#FFD900">01</tspan>  /  ABOUT</text>
+  <text class="m" x="1160" y="44" text-anchor="end">WHO I AM</text>
+  <path d="M40 64H1160" stroke="#303030"/>
+  <text class="c" x="36" y="176" font-size="124" fill="#F3EFE4" textLength="500" lengthAdjust="spacingAndGlyphs">HELLO, I'M</text>
+  <text class="s" x="566" y="176" font-size="112">Dhanush.</text>
+  <path d="M40 206H1160" stroke="#303030"/>
+
+  <g class="b" font-size="25">
+    <text x="40" y="266">AI engineer intern at ReadyForRole, building</text>
+    <text x="40" y="306"><tspan class="s" font-size="27">agentic</tspan> and <tspan class="s" font-size="27">RAG</tspan> systems — from retrieval</text>
+    <text x="40" y="346">pipelines to evaluation loops. I write and</text>
+    <text x="40" y="386">teach what I learn: blogs, decks and webinars</text>
+    <text x="40" y="426">for graduates entering the industry.</text>
+  </g>
+
+  <g>
+    <text class="c" x="40" y="526" font-size="84" fill="#FFD900" textLength="70" lengthAdjust="spacingAndGlyphs">02</text>
+    <text class="m" x="40" y="556" font-size="12">INTERNSHIPS</text>
+    <text class="c" x="240" y="526" font-size="84" fill="#FFD900" textLength="150" lengthAdjust="spacingAndGlyphs">2026</text>
+    <text class="m" x="240" y="556" font-size="12">BE, CLASS OF</text>
+    <text class="c" x="480" y="526" font-size="84" fill="#FFD900" textLength="70" lengthAdjust="spacingAndGlyphs">04</text>
+    <text class="m" x="480" y="556" font-size="12">FEATURED BUILDS</text>
+  </g>
+
+  <rect x="720.5" y="240.5" width="439" height="320" fill="none" stroke="#303030"/>
+  <path d="M720 304H1160M720 368H1160M720 432H1160M720 496H1160" stroke="#303030"/>
+  <g class="m" font-size="13">
+    <text x="744" y="279">ROLE</text>
+    <text x="744" y="343">AT</text>
+    <text x="744" y="407">EDU</text>
+    <text x="744" y="471">BASE</text>
+    <text x="744" y="535">FOCUS</text>
+  </g>
+  <g class="b" font-size="20">
+    <text x="850" y="280">AI Engineer (Intern)</text>
+    <text x="850" y="344">ReadyForRole Pvt Ltd</text>
+    <text x="850" y="408">BE, Information Science</text>
+    <text x="850" y="472">Bangalore, India</text>
+    <text x="850" y="536">Agents · RAG · Backend</text>
+  </g>
+</svg>

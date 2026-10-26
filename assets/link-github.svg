@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 150" width="400" height="150" role="img" aria-label="GitHub: Dhanux05">
+  <style>
+    .c{font-family:Impact,Haettenschweiler,"Arial Narrow Bold","Arial Narrow",sans-serif}
+    .s{font-family:Georgia,"Times New Roman",serif;font-style:italic;fill:#FFD900}
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px;letter-spacing:2px;fill:#B8B5AC}
+  </style>
+  <rect width="400" height="150" fill="#0B0B0B"/>
+  <path d="M0 .5H400M.5 0V150" stroke="#303030"/>
+  <text class="m" x="28" y="40"><tspan fill="#FFD900">02</tspan>  /  GITHUB</text>
+  <text class="c" x="28" y="92" font-size="40" fill="#F3EFE4" textLength="250" lengthAdjust="spacingAndGlyphs">GITHUB/DHANUX05</text>
+  <text class="s" x="28" y="128" font-size="22">see the code  →</text>
+</svg>

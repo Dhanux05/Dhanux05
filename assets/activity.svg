@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Commit log. Live GitHub activity.">
+  <style>
+    .c{font-family:Impact,Haettenschweiler,"Arial Narrow Bold","Arial Narrow",sans-serif}
+    .s{font-family:Georgia,"Times New Roman",serif;font-style:italic;fill:#FFD900}
+    .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:14px;letter-spacing:2px;fill:#B8B5AC}
+  </style>
+  <rect width="1200" height="240" fill="#0B0B0B"/>
+  <text class="m" x="40" y="44"><tspan fill="#FFD900">05</tspan>  /  COMMIT LOG</text>
+  <text class="m" x="1160" y="44" text-anchor="end">LIVE FROM GITHUB</text>
+  <path d="M40 64H1160" stroke="#303030"/>
+  <text class="c" x="36" y="176" font-size="124" fill="#F3EFE4" textLength="300" lengthAdjust="spacingAndGlyphs">COMMIT</text>
+  <text class="s" x="366" y="176" font-size="112">log.</text>
+  <path d="M40 206H1160" stroke="#303030"/>
+</svg>
